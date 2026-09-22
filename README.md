@@ -39,3 +39,4 @@ configuration. To connect a real LLM:
 - No fake stats, testimonials, client logos, or invented experience are included anywhere —
   placeholders are marked clearly where real information should go later.
 - Respects `prefers-reduced-motion` throughout.
+# my-portfolio
