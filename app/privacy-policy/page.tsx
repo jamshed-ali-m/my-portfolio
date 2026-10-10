@@ -118,8 +118,23 @@ const sections: PolicySection[] = [
       `This Privacy Policy may be updated periodically to reflect changes in services, tools, or legal requirements. The "Version" date shown in the table of contents indicates the last revision. Continued use of this website or our services after an update constitutes acceptance of the revised policy.`,
     ],
   },
+
+  
   {
     number: "11",
+    title: "Pinterest API & Automation",
+    paragraphs: [
+      "This website and its owner may use the Pinterest API with an authorized Pinterest account to support content creation and publishing workflows for Everyday Finds Hub.",
+      "If Pinterest API access is enabled, the workflow may process information needed to create Pins, such as board identifiers, Pin titles, descriptions, image URLs, destination links, and publishing status.",
+      "Pinterest account access is granted through Pinterest's authorization process. We do not request or collect your Pinterest password. API access credentials are kept confidential and are used only for the intended integration.",
+      "Workflow data may be processed by n8n and the hosting or storage services configured for the workflow. Access is restricted to the extent supported by those services and the workflow configuration. We do not sell Pinterest API data.",
+      "Pins are published only for the account owner and according to the owner's selected content and publishing instructions. The account owner can disconnect the integration and revoke its authorization through the available Pinterest account or app settings.",
+      "Data is retained only for as long as necessary to operate and troubleshoot the workflow, unless a longer retention period is required by law. Requests concerning personal information can be sent using the contact details in this policy."
+    ],
+  },
+
+  {
+    number: "12",
     title: "Contact Us",
     paragraphs: [
       "For any questions about this Privacy Policy, or to exercise your data rights, reach out through any of the channels below:",
